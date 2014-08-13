@@ -5,3 +5,10 @@
 + As a user, I should be able to find a course
 + As a admin, I should be able to create a course
 + As a user, I should be able to see who register a course
+
+
+Trong model Student co ca feilds
+ + Name
+ + Phone number
+ + Email(login)
+Trong database 
